@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xyz60552.github.io/gridea</id>
+    <id>https://xyz60552.github.io/gridea/</id>
     <title>Gridea</title>
-    <updated>2020-08-04T01:37:14.394Z</updated>
+    <updated>2020-08-04T01:38:43.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xyz60552.github.io/gridea"/>
+    <link rel="alternate" href="https://xyz60552.github.io/gridea/"/>
     <link rel="self" href="https://xyz60552.github.io/gridea/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://xyz60552.github.io/gridea/images/avatar.png</logo>

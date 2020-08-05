@@ -1,45 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xyz60552.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-08-04T01:50:03.965Z</updated>
+    <id>https://xyz60552.github.io</id>
+    <title>XYZ的杂感</title>
+    <updated>2020-08-05T09:07:34.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xyz60552.github.io/"/>
+    <link rel="alternate" href="https://xyz60552.github.io"/>
     <link rel="self" href="https://xyz60552.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>现以Gridea呈现</subtitle>
     <logo>https://xyz60552.github.io/images/avatar.png</logo>
     <icon>https://xyz60552.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, XYZ的杂感</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xyz60552.github.io/post/hello-gridea/</id>
-        <link href="https://xyz60552.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[浅谈“看客文化”]]></title>
+        <id>https://xyz60552.github.io/post/lesslessne-han-greatergreater-zhong-de-kan-ke/</id>
+        <link href="https://xyz60552.github.io/post/lesslessne-han-greatergreater-zhong-de-kan-ke/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2020-08-04T03:14:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>暑假作业的一篇“论文”，语文不好，欢迎评论。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>暑假作业的一篇“论文”，语文不好，欢迎评论。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<h2 id="前言">前言</h2>
+<blockquote>
+<p>在正文开始之前，先写一些日常写语文作业时的感受吧。<br>
+对于我这种语文倒数的人来说，写语文相关的东西可谓是一种崩溃状煎熬...<br>
+不知道怎么开始，又写什么，又怎么结束，结构也是一片混乱。并且每当写作文，都经常写老俗套的素材，例如：考试没考好，反思，奋斗，结束......老师评语也差不多——我也知道这素材写烂了呀！可是该怎么改呢T.T</p>
+</blockquote>
+<h2 id="正文">正文</h2>
+<p>不敢公开...<br>
+<s>复制下面文本去 <a href="https://tool.oschina.net/encrypt"><u>加密解密网页</u></a> 解密（粘贴到右侧“密文”栏，加密算法DES，密码是我的简体中文姓名）</s></p>
+<script type="text/javascript" src="https://xyz60552.github.io/crypto/crypto-js.js"></script>
+<script type="text/javascript">
+    var myname=prompt("请输入我的简中姓名");
+    document.write(myname);
+    document.write("<h1>浅谈“看客文化”</h1>");
+    var encrydata = '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'+
+'diilxhM9OjebSKiSN3JVFA==';
+    var bytes  = CryptoJS.DES.decrypt(encrydata, myname);
+    var decryptedData = JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
+    document.write(decryptedData);
+</script>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一篇博客]]></title>
+        <id>https://xyz60552.github.io/post/di-yi-pian-bo-ke/</id>
+        <link href="https://xyz60552.github.io/post/di-yi-pian-bo-ke/">
+        </link>
+        <updated>2020-08-04T02:02:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是我的第一篇<a href="https://xyz60552.github.io/">博客</a>。</p>
+<p>​之前其实有过很多博客了【<strong>捂脸</strong>】，例如csdn，洛谷，博客园，xyz订阅号，hexo+github pages等，但<s>要么就是懒得搞，要么就是不会搞...</s></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是我的第一篇<a href="https://xyz60552.github.io/">博客</a>。</p>
+<p>​之前其实有过很多博客了【<strong>捂脸</strong>】，例如csdn，洛谷，博客园，xyz订阅号，hexo+github pages等，但<s>要么就是懒得搞，要么就是不会搞...</s></p>
+<!-- more -->
+<hr>
+<p><strong>这个博客到底要做什么？</strong></p>
+<p>​记录一些经历&amp;感受吧，高中了 也没多少<em>空闲时间</em>——难受，估计终于会<s>落灰/404</s>罢.</p>
+<hr>
+<p>感谢Github提供的page以及Gridea提供的博客模板<br>
+​<strong>最后旧logo镇楼</strong>（<s>新logo懒得找了</s>）</p>
+<figure data-type="image" tabindex="1"><img src="https://xyz60552.github.io/post-images/1596506752622.png" alt="xyzlogo" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>

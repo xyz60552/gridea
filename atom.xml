@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xyz60552.github.io</id>
     <title>XYZ的杂感</title>
-    <updated>2020-08-05T09:13:10.781Z</updated>
+    <updated>2020-08-05T09:19:32.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xyz60552.github.io"/>
     <link rel="self" href="https://xyz60552.github.io/atom.xml"/>
@@ -100,15 +100,9 @@
 'y7YuLVYxVbR2Ov6OmyMt+Ki9vSg/sB3E5ussRw4v2fNPS630lfwwB2YOptIgYPZW'+
 'diilxhM9OjebSKiSN3JVFA==';
     var bytes  = CryptoJS.DES.decrypt(encrydata, myname);
-    if(!bytes.toString(CryptoJS.enc.Utf8))
-    {
-        var decryptedData = JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
-        document.write(decryptedData);
-    }
-    else
-    {
-        document.write('貌似输入错误...');
-    }
+    var utf88 = CryptoJS.enc.Utf8.stringify(bytes);
+    //var decryptedData = JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
+    document.write(utf88);
 </script>
 ]]></content>
     </entry>
